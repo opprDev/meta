@@ -2,7 +2,7 @@
 
 <img src="https://github.com/opprDev/meta/blob/master/banners/opprdev_banner_4_1_1356x500.png?raw=true">
 
-[![GPL](https://flat.badgen.net/github/license/opprDev/stopcorona)](https://github.com/opprDev/stopcorona/blob/master/LICENSE)
+[![GPL-3.0](https://flat.badgen.net/github/license/opprDev/stopcorona)](https://github.com/opprDev/stopcorona/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/meta?style=flat-square)](https://github.com/opprDev/meta/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/meta.svg)](http://hits.dwyl.io/opprDev/meta)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
